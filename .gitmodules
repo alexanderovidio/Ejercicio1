@@ -1,0 +1,3 @@
+[submodule "src/app/angularIntecap"]
+	path = src/app/angularIntecap
+	url = https://github.com/alexanderovidio/angularIntecap
